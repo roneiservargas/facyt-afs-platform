@@ -1,3 +1,6 @@
 title: Plataforma AFs
 description: Página del proyecto AFs
 
+exclude:
+  - gemini.md
+  
